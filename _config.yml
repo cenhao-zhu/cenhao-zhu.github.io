@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Cenhao Zhu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Cenhao Zhu"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "U.S."
   employer         : "Red Brick University"
